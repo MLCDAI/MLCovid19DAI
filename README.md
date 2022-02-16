@@ -1,9 +1,8 @@
 # Multilingual COVID-19 Fake News Detection and Intervention
 ![](https://www.veski.org.au/wp-content/uploads/image1-600x111.png)
-<<<<<<< HEAD
-=======
 
->>>>>>> 73649effff2f94cf96ecd2e6d79bfe98ce7b8164
+
+
 **International Partner: Gadjah Mada University, Indonesia**
 
 **Deakin University’s School of Information Technology has world class research capacity in cybersecurity, distributed computing and artificial intelligence. Gadjah Mada University is one of the oldest and largest institutions of higher education in Indonesia and has well-established networks and partnerships with various industry/government institutions, which provides excellent research and commercialisation opportunities.**
@@ -22,9 +21,9 @@ Each country has different strategies to control COVID-19, which leads to a huge
 Clearly, the detection of multilingual COVID-19 fake news is essential for countries with hundreds of ethnic and linguistic groups such as Australia and Indonesia. Unfortunately, existing fake news detection methods remain too general to be effective in multiple languages.
 
 
-<<<<<<< HEAD
+
 This collaboration between Victoria and Indonesia will use a computational-based detection, machine learning, and human factor engineering approach to design a decision support system that functions as a warning mechanism for misinformation and fake news related to COVID-19. The final tool is being developed for use by organisations and governments in developing appropriate communications and education strategies.
-=======
-This collaboration between Victoria and Indonesia will use a computational-based detection, machine learning, and human factor engineering approach to design a decision support system that functions as a warning mechanism for misinformation and fake news related to COVID-19. The final tool is being developed for use by organisations and governments in developing appropriate communications and education strategies.
+
+
  
->>>>>>> 73649effff2f94cf96ecd2e6d79bfe98ce7b8164
+
