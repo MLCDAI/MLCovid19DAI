@@ -1,5 +1,6 @@
 # Multilingual COVID-19 Fake News Detection and Intervention
-![](/images/founder.png)
+![](https://www.veski.org.au/wp-content/uploads/image1-600x111.png)
+
 **International Partner: Gadjah Mada University, Indonesia**
 
 **Deakin University’s School of Information Technology has world class research capacity in cybersecurity, distributed computing and artificial intelligence. Gadjah Mada University is one of the oldest and largest institutions of higher education in Indonesia and has well-established networks and partnerships with various industry/government institutions, which provides excellent research and commercialisation opportunities.**
