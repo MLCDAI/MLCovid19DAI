@@ -50,7 +50,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             /* <![CDATA[ */
             var rcewpp = {
                 "ajax_url":"https://deakin-ugm-veski-smrp-project.com/wp-admin/admin-ajax.php",
-                "nonce": "f6ef537ff7",
+                "nonce": "ec34c1e240",
                 "home_url": "https://deakin-ugm-veski-smrp-project.com/",
                 "settings_icon": 'https://deakin-ugm-veski-smrp-project.com/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
                 "settings_hover_icon": 'https://deakin-ugm-veski-smrp-project.com/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
@@ -115,10 +115,11 @@ class="hfeed site" id="page">
 								</div>
 																									<div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">
 										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
-			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li id="menu-item-25600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25600"><a href="#link_to_project" class="menu-link">PROJECT</a></li>
-<li id="menu-item-25601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25601"><a href="#link_to_dataset" class="menu-link">DATASET</a></li>
-<li id="menu-item-25602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25602"><a href="#link_to_relatework" class="menu-link">RRSEARCH OUTPUT</a></li>
-<li id="menu-item-25603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25603"><a href="#link_to_contributor" class="menu-link">CONTRIBUTORS</a></li>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li id="menu-item-25600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25600"><a href="#mission" class="menu-link">PROJECT</a></li>
+<li id="menu-item-25601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25601"><a href="#dataset" class="menu-link">DATASET</a></li>
+<li id="menu-item-25602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25602"><a href="#research" class="menu-link">RRSEARCH OUTPUT</a></li>
+<li id="menu-item-25603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25603"><a href="#contributors" class="menu-link">CONTRIBUTORS</a></li>
+<li id="menu-item-25738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25738"><a href="#parternship" class="menu-link">PARTNERSHIP</a></li>
 </ul></div></nav></div></div>		</div>
 									</div>
 												</div>
@@ -156,10 +157,11 @@ class="hfeed site" id="page">
 	</div>
 		<div class="ast-mobile-header-content content-align-flex-start ">
 				<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
-			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25600"><a href="#link_to_project" class="menu-link">PROJECT</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25601"><a href="#link_to_dataset" class="menu-link">DATASET</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25602"><a href="#link_to_relatework" class="menu-link">RRSEARCH OUTPUT</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25603"><a href="#link_to_contributor" class="menu-link">CONTRIBUTORS</a></li>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25600"><a href="#mission" class="menu-link">PROJECT</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25601"><a href="#dataset" class="menu-link">DATASET</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25602"><a href="#research" class="menu-link">RRSEARCH OUTPUT</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25603"><a href="#contributors" class="menu-link">CONTRIBUTORS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25738"><a href="#parternship" class="menu-link">PARTNERSHIP</a></li>
 </ul></div></nav></div></div>		</div>
 			</div>
 </div>
